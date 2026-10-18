@@ -1,0 +1,2856 @@
+{
+ "source": "GeneralUser GS v2.0.3 (S. Christian Collins)",
+ "rate": 22050,
+ "instruments": {
+  "fiddle": [
+   {
+    "file": "fiddle/0.wav",
+    "lo": 0,
+    "hi": 57,
+    "root": 56,
+    "cents": 56,
+    "loop": [
+     18615,
+     29695
+    ],
+    "attenDb": 5.4,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/11.wav",
+    "lo": 0,
+    "hi": 57,
+    "root": 57,
+    "cents": -5,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/1.wav",
+    "lo": 58,
+    "hi": 60,
+    "root": 59,
+    "cents": 63,
+    "loop": [
+     19411,
+     32086
+    ],
+    "attenDb": 4.2,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/12.wav",
+    "lo": 58,
+    "hi": 60,
+    "root": 62,
+    "cents": -6,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/2.wav",
+    "lo": 61,
+    "hi": 64,
+    "root": 63,
+    "cents": 43,
+    "loop": [
+     17379,
+     29492
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/12.wav",
+    "lo": 61,
+    "hi": 64,
+    "root": 62,
+    "cents": -12,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/3.wav",
+    "lo": 65,
+    "hi": 67,
+    "root": 66,
+    "cents": 27,
+    "loop": [
+     16462,
+     28617
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/13.wav",
+    "lo": 65,
+    "hi": 67,
+    "root": 69,
+    "cents": 19,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/4.wav",
+    "lo": 68,
+    "hi": 71,
+    "root": 70,
+    "cents": 38,
+    "loop": [
+     19097,
+     30934
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/13.wav",
+    "lo": 68,
+    "hi": 71,
+    "root": 69,
+    "cents": 10,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/13.wav",
+    "lo": 72,
+    "hi": 73,
+    "root": 69,
+    "cents": 10,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/5.wav",
+    "lo": 72,
+    "hi": 75,
+    "root": 73,
+    "cents": 41,
+    "loop": [
+     12017,
+     24187
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/14.wav",
+    "lo": 74,
+    "hi": 75,
+    "root": 76,
+    "cents": 11,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/6.wav",
+    "lo": 76,
+    "hi": 77,
+    "root": 77,
+    "cents": 56,
+    "loop": [
+     18345,
+     28853
+    ],
+    "attenDb": 4.6000000000000005,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/14.wav",
+    "lo": 76,
+    "hi": 77,
+    "root": 76,
+    "cents": -9,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/7.wav",
+    "lo": 78,
+    "hi": 80,
+    "root": 77,
+    "cents": -37,
+    "loop": [
+     18575,
+     30234
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/15.wav",
+    "lo": 78,
+    "hi": 80,
+    "root": 81,
+    "cents": 19,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/15.wav",
+    "lo": 81,
+    "hi": 82,
+    "root": 81,
+    "cents": -2,
+    "loop": null,
+    "attenDb": 12.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/8.wav",
+    "lo": 81,
+    "hi": 84,
+    "root": 83,
+    "cents": 51,
+    "loop": [
+     19351,
+     30455
+    ],
+    "attenDb": 4.2,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/16.wav",
+    "lo": 83,
+    "hi": 84,
+    "root": 84,
+    "cents": 10,
+    "loop": null,
+    "attenDb": 12.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/16.wav",
+    "lo": 85,
+    "hi": 86,
+    "root": 84,
+    "cents": -9,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/9.wav",
+    "lo": 85,
+    "hi": 89,
+    "root": 87,
+    "cents": 65,
+    "loop": [
+     16698,
+     27621
+    ],
+    "attenDb": 3.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/17.wav",
+    "lo": 87,
+    "hi": 89,
+    "root": 88,
+    "cents": -1,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/10.wav",
+    "lo": 90,
+    "hi": 96,
+    "root": 90,
+    "cents": -40,
+    "loop": [
+     23230,
+     33000
+    ],
+    "attenDb": 4.2,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/18.wav",
+    "lo": 90,
+    "hi": 100,
+    "root": 91,
+    "cents": 19,
+    "loop": null,
+    "attenDb": 10.0,
+    "attack": 0.0009765625,
+    "hold": 1.0,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 0.4000724898613191
+   },
+   {
+    "file": "fiddle/10.wav",
+    "lo": 97,
+    "hi": 100,
+    "root": 90,
+    "cents": -40,
+    "loop": [
+     23230,
+     33000
+    ],
+    "attenDb": 6.2,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "fiddle/10.wav",
+    "lo": 101,
+    "hi": 112,
+    "root": 90,
+    "cents": -40,
+    "loop": [
+     23230,
+     33000
+    ],
+    "attenDb": 12.0,
+    "attack": 0.009997848169729106,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.45010494920905475
+   }
+  ],
+  "whistle": [
+   {
+    "file": "whistle/0.wav",
+    "lo": 0,
+    "hi": 43,
+    "root": 42,
+    "cents": -23,
+    "loop": [
+     118,
+     353
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/8.wav",
+    "lo": 0,
+    "hi": 127,
+    "root": 60,
+    "cents": -600,
+    "loop": [
+     40,
+     53926
+    ],
+    "attenDb": 16.52,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/1.wav",
+    "lo": 44,
+    "hi": 55,
+    "root": 54,
+    "cents": -23,
+    "loop": [
+     59,
+     176
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/2.wav",
+    "lo": 56,
+    "hi": 67,
+    "root": 66,
+    "cents": -23,
+    "loop": [
+     29,
+     88
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/3.wav",
+    "lo": 68,
+    "hi": 79,
+    "root": 78,
+    "cents": -23,
+    "loop": [
+     15,
+     44
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/4.wav",
+    "lo": 80,
+    "hi": 91,
+    "root": 90,
+    "cents": -23,
+    "loop": [
+     7,
+     22
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/5.wav",
+    "lo": 92,
+    "hi": 103,
+    "root": 102,
+    "cents": -23,
+    "loop": [
+     4,
+     26
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/6.wav",
+    "lo": 104,
+    "hi": 115,
+    "root": 114,
+    "cents": -23,
+    "loop": [
+     6,
+     24
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "whistle/7.wav",
+    "lo": 116,
+    "hi": 127,
+    "root": 126,
+    "cents": -23,
+    "loop": [
+     3,
+     19
+    ],
+    "attenDb": 3.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   }
+  ],
+  "harp": [
+   {
+    "file": "harp/0.wav",
+    "lo": 0,
+    "hi": 33,
+    "root": 52,
+    "cents": -3,
+    "loop": [
+     16551,
+     18694
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/0.wav",
+    "lo": 34,
+    "hi": 43,
+    "root": 52,
+    "cents": -1,
+    "loop": [
+     16551,
+     18694
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/0.wav",
+    "lo": 44,
+    "hi": 53,
+    "root": 52,
+    "cents": 1,
+    "loop": [
+     16551,
+     18694
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/1.wav",
+    "lo": 54,
+    "hi": 60,
+    "root": 60,
+    "cents": -2,
+    "loop": [
+     13239,
+     15430
+    ],
+    "attenDb": 6.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/2.wav",
+    "lo": 61,
+    "hi": 71,
+    "root": 61,
+    "cents": 10,
+    "loop": [
+     20127,
+     21487
+    ],
+    "attenDb": 3.8000000000000003,
+    "attack": 0.0009765625,
+    "hold": 1.0999973132782155,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/3.wav",
+    "lo": 72,
+    "hi": 80,
+    "root": 78,
+    "cents": 19,
+    "loop": [
+     20074,
+     21427
+    ],
+    "attenDb": 3.8000000000000003,
+    "attack": 0.0009765625,
+    "hold": 2.499547020457816,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/3.wav",
+    "lo": 81,
+    "hi": 86,
+    "root": 78,
+    "cents": 22,
+    "loop": [
+     20074,
+     21427
+    ],
+    "attenDb": 3.8000000000000003,
+    "attack": 0.0009765625,
+    "hold": 2.499547020457816,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/4.wav",
+    "lo": 87,
+    "hi": 96,
+    "root": 93,
+    "cents": 31,
+    "loop": [
+     13478,
+     16582
+    ],
+    "attenDb": 5.800000000000001,
+    "attack": 0.0009765625,
+    "hold": 4.0,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "harp/4.wav",
+    "lo": 97,
+    "hi": 116,
+    "root": 93,
+    "cents": 31,
+    "loop": [
+     13478,
+     16582
+    ],
+    "attenDb": 5.800000000000001,
+    "attack": 0.0009765625,
+    "hold": 4.0,
+    "decay": 9.998188081831264,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   }
+  ],
+  "guitar": [
+   {
+    "file": "guitar/0.wav",
+    "lo": 0,
+    "hi": 42,
+    "root": 40,
+    "cents": -10,
+    "loop": [
+     17727,
+     24650
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.25319719605403634,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/1.wav",
+    "lo": 43,
+    "hi": 47,
+    "root": 45,
+    "cents": -4,
+    "loop": [
+     14922,
+     20306
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.2845327586469556,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/1.wav",
+    "lo": 48,
+    "hi": 48,
+    "root": 45,
+    "cents": -4,
+    "loop": [
+     14922,
+     20306
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.2845327586469556,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/2.wav",
+    "lo": 49,
+    "hi": 52,
+    "root": 50,
+    "cents": 0,
+    "loop": [
+     13342,
+     15745
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.3395431109568303,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/2.wav",
+    "lo": 53,
+    "hi": 53,
+    "root": 50,
+    "cents": 0,
+    "loop": [
+     13342,
+     15745
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.3395431109568303,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/3.wav",
+    "lo": 54,
+    "hi": 56,
+    "root": 55,
+    "cents": -2,
+    "loop": [
+     14966,
+     17774
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.5084460712467278,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/4.wav",
+    "lo": 57,
+    "hi": 57,
+    "root": 59,
+    "cents": -1,
+    "loop": [
+     13854,
+     21615
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.592888752554463,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/4.wav",
+    "lo": 58,
+    "hi": 61,
+    "root": 59,
+    "cents": -1,
+    "loop": [
+     13854,
+     21615
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.592888752554463,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/5.wav",
+    "lo": 62,
+    "hi": 62,
+    "root": 64,
+    "cents": -1,
+    "loop": [
+     9783,
+     15127
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.5589663474282034,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/5.wav",
+    "lo": 63,
+    "hi": 65,
+    "root": 64,
+    "cents": -1,
+    "loop": [
+     9783,
+     15127
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.5589663474282034,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/6.wav",
+    "lo": 66,
+    "hi": 67,
+    "root": 67,
+    "cents": 2,
+    "loop": [
+     9608,
+     12367
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.6529298935444589,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/6.wav",
+    "lo": 68,
+    "hi": 68,
+    "root": 67,
+    "cents": 2,
+    "loop": [
+     9608,
+     12367
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.6529298935444589,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/7.wav",
+    "lo": 69,
+    "hi": 71,
+    "root": 70,
+    "cents": 3,
+    "loop": [
+     6935,
+     9018
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.5602593270541331,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/8.wav",
+    "lo": 72,
+    "hi": 72,
+    "root": 73,
+    "cents": 9,
+    "loop": [
+     7381,
+     9776
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.7091519375521206,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/8.wav",
+    "lo": 73,
+    "hi": 74,
+    "root": 73,
+    "cents": 9,
+    "loop": [
+     7381,
+     9776
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.7091519375521206,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/9.wav",
+    "lo": 75,
+    "hi": 77,
+    "root": 76,
+    "cents": 9,
+    "loop": [
+     5404,
+     6009
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.6177093185634646,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/9.wav",
+    "lo": 78,
+    "hi": 82,
+    "root": 76,
+    "cents": 9,
+    "loop": [
+     5404,
+     6009
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.6177093185634646,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   },
+   {
+    "file": "guitar/9.wav",
+    "lo": 83,
+    "hi": 108,
+    "root": 76,
+    "cents": 9,
+    "loop": [
+     5404,
+     6009
+    ],
+    "attenDb": 6.5200000000000005,
+    "attack": 0.0009765625,
+    "hold": 0.6177093185634646,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 0.45010494920905475
+   }
+  ],
+  "banjo": [
+   {
+    "file": "banjo/0.wav",
+    "lo": 0,
+    "hi": 56,
+    "root": 54,
+    "cents": -3,
+    "loop": [
+     3624,
+     3744
+    ],
+    "attenDb": 0.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 4.1988667344922685,
+    "sustainDb": -96.0,
+    "release": 0.7500194946429091
+   },
+   {
+    "file": "banjo/1.wav",
+    "lo": 57,
+    "hi": 65,
+    "root": 66,
+    "cents": -1,
+    "loop": [
+     3004,
+     3064
+    ],
+    "attenDb": 0.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 4.1988667344922685,
+    "sustainDb": -96.0,
+    "release": 0.7500194946429091
+   },
+   {
+    "file": "banjo/2.wav",
+    "lo": 66,
+    "hi": 101,
+    "root": 78,
+    "cents": 14,
+    "loop": [
+     3314,
+     3344
+    ],
+    "attenDb": 2.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 4.1988667344922685,
+    "sustainDb": -96.0,
+    "release": 0.7500194946429091
+   },
+   {
+    "file": "banjo/3.wav",
+    "lo": 102,
+    "hi": 108,
+    "root": 84,
+    "cents": 2,
+    "loop": [
+     1205,
+     1226
+    ],
+    "attenDb": 0.0,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 0.10001812246532978,
+    "sustainDb": 0.0,
+    "release": 0.10001812246532978
+   }
+  ],
+  "pipes": [
+   {
+    "file": "pipes/0.wav",
+    "lo": 0,
+    "hi": 57,
+    "root": 72,
+    "cents": -45,
+    "loop": [
+     96,
+     14337
+    ],
+    "attenDb": 5.5200000000000005,
+    "attack": 0.10001812246532978,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 1.3096367095102093
+   },
+   {
+    "file": "pipes/2.wav",
+    "lo": 0,
+    "hi": 76,
+    "root": 94,
+    "cents": -237,
+    "loop": [
+     902,
+     926
+    ],
+    "attenDb": 8.8,
+    "attack": 0.08998531129587374,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.343091827610945
+   },
+   {
+    "file": "pipes/4.wav",
+    "lo": 58,
+    "hi": 70,
+    "root": 84,
+    "cents": -45,
+    "loop": [
+     1626,
+     1647
+    ],
+    "attenDb": 5.5200000000000005,
+    "attack": 0.005999951967619575,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "pipes/1.wav",
+    "lo": 71,
+    "hi": 83,
+    "root": 84,
+    "cents": -45,
+    "loop": [
+     1776,
+     1797
+    ],
+    "attenDb": 5.5200000000000005,
+    "attack": 0.005999951967619575,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "pipes/2.wav",
+    "lo": 77,
+    "hi": 88,
+    "root": 94,
+    "cents": -191,
+    "loop": [
+     902,
+     926
+    ],
+    "attenDb": 8.8,
+    "attack": 0.08998531129587374,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.343091827610945
+   },
+   {
+    "file": "pipes/3.wav",
+    "lo": 84,
+    "hi": 108,
+    "root": 84,
+    "cents": -45,
+    "loop": [
+     1926,
+     1947
+    ],
+    "attenDb": 5.5200000000000005,
+    "attack": 0.005999951967619575,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6961644263157466
+   },
+   {
+    "file": "pipes/2.wav",
+    "lo": 89,
+    "hi": 108,
+    "root": 94,
+    "cents": -165,
+    "loop": [
+     902,
+     926
+    ],
+    "attenDb": 8.8,
+    "attack": 0.08998531129587374,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.343091827610945
+   }
+  ],
+  "cello": [
+   {
+    "file": "cello/0.wav",
+    "lo": 0,
+    "hi": 38,
+    "root": 37,
+    "cents": -1,
+    "loop": [
+     24938,
+     29733
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/14.wav",
+    "lo": 0,
+    "hi": 38,
+    "root": 37,
+    "cents": -1,
+    "loop": [
+     23468,
+     28263
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/24.wav",
+    "lo": 0,
+    "hi": 38,
+    "root": 37,
+    "cents": -1,
+    "loop": [
+     21998,
+     26793
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/34.wav",
+    "lo": 21,
+    "hi": 38,
+    "root": 38,
+    "cents": 5,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/1.wav",
+    "lo": 39,
+    "hi": 40,
+    "root": 39,
+    "cents": -1,
+    "loop": [
+     25557,
+     30078
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/15.wav",
+    "lo": 39,
+    "hi": 40,
+    "root": 39,
+    "cents": -1,
+    "loop": [
+     24084,
+     28605
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/25.wav",
+    "lo": 39,
+    "hi": 40,
+    "root": 39,
+    "cents": -1,
+    "loop": [
+     22612,
+     27132
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/35.wav",
+    "lo": 39,
+    "hi": 40,
+    "root": 42,
+    "cents": 10,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/2.wav",
+    "lo": 41,
+    "hi": 42,
+    "root": 41,
+    "cents": -1,
+    "loop": [
+     20074,
+     24592
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/16.wav",
+    "lo": 41,
+    "hi": 42,
+    "root": 41,
+    "cents": -1,
+    "loop": [
+     18586,
+     23104
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/26.wav",
+    "lo": 41,
+    "hi": 42,
+    "root": 41,
+    "cents": -1,
+    "loop": [
+     17098,
+     21616
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/35.wav",
+    "lo": 41,
+    "hi": 42,
+    "root": 42,
+    "cents": 22,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/35.wav",
+    "lo": 43,
+    "hi": 43,
+    "root": 42,
+    "cents": 1,
+    "loop": null,
+    "attenDb": 17.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/3.wav",
+    "lo": 43,
+    "hi": 45,
+    "root": 44,
+    "cents": -1,
+    "loop": [
+     23238,
+     28355
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/17.wav",
+    "lo": 43,
+    "hi": 45,
+    "root": 44,
+    "cents": -1,
+    "loop": [
+     22091,
+     27207
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/27.wav",
+    "lo": 43,
+    "hi": 45,
+    "root": 44,
+    "cents": -1,
+    "loop": [
+     20943,
+     26060
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/36.wav",
+    "lo": 44,
+    "hi": 45,
+    "root": 46,
+    "cents": -1,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/36.wav",
+    "lo": 46,
+    "hi": 47,
+    "root": 46,
+    "cents": -10,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/4.wav",
+    "lo": 46,
+    "hi": 48,
+    "root": 47,
+    "cents": -1,
+    "loop": [
+     19852,
+     24505
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/18.wav",
+    "lo": 46,
+    "hi": 48,
+    "root": 47,
+    "cents": -1,
+    "loop": [
+     19115,
+     23767
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/28.wav",
+    "lo": 46,
+    "hi": 48,
+    "root": 47,
+    "cents": -1,
+    "loop": [
+     18376,
+     23028
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/37.wav",
+    "lo": 48,
+    "hi": 48,
+    "root": 50,
+    "cents": 5,
+    "loop": null,
+    "attenDb": 17.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/5.wav",
+    "lo": 49,
+    "hi": 52,
+    "root": 51,
+    "cents": -1,
+    "loop": [
+     19976,
+     24366
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/19.wav",
+    "lo": 49,
+    "hi": 52,
+    "root": 51,
+    "cents": -1,
+    "loop": [
+     19609,
+     23999
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/29.wav",
+    "lo": 49,
+    "hi": 52,
+    "root": 51,
+    "cents": -1,
+    "loop": [
+     19241,
+     23631
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/37.wav",
+    "lo": 49,
+    "hi": 52,
+    "root": 50,
+    "cents": 21,
+    "loop": null,
+    "attenDb": 17.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/6.wav",
+    "lo": 53,
+    "hi": 56,
+    "root": 54,
+    "cents": -1,
+    "loop": [
+     20304,
+     24687
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/20.wav",
+    "lo": 53,
+    "hi": 56,
+    "root": 54,
+    "cents": -1,
+    "loop": [
+     19752,
+     24135
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/30.wav",
+    "lo": 53,
+    "hi": 56,
+    "root": 54,
+    "cents": -1,
+    "loop": [
+     19200,
+     23583
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/38.wav",
+    "lo": 53,
+    "hi": 56,
+    "root": 54,
+    "cents": -6,
+    "loop": null,
+    "attenDb": 17.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/7.wav",
+    "lo": 57,
+    "hi": 60,
+    "root": 59,
+    "cents": -1,
+    "loop": [
+     22779,
+     26975
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/21.wav",
+    "lo": 57,
+    "hi": 60,
+    "root": 59,
+    "cents": -1,
+    "loop": [
+     22044,
+     26240
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/31.wav",
+    "lo": 57,
+    "hi": 60,
+    "root": 59,
+    "cents": -1,
+    "loop": [
+     21309,
+     25505
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/39.wav",
+    "lo": 57,
+    "hi": 60,
+    "root": 58,
+    "cents": 11,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.005999951967619575,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/8.wav",
+    "lo": 61,
+    "hi": 64,
+    "root": 64,
+    "cents": -1,
+    "loop": [
+     16002,
+     20120
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/40.wav",
+    "lo": 61,
+    "hi": 64,
+    "root": 62,
+    "cents": 14,
+    "loop": null,
+    "attenDb": 17.2,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/9.wav",
+    "lo": 65,
+    "hi": 66,
+    "root": 65,
+    "cents": -1,
+    "loop": [
+     12866,
+     17309
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/41.wav",
+    "lo": 65,
+    "hi": 66,
+    "root": 66,
+    "cents": -1,
+    "loop": null,
+    "attenDb": 18.8,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/10.wav",
+    "lo": 67,
+    "hi": 69,
+    "root": 69,
+    "cents": -1,
+    "loop": [
+     17537,
+     21804
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/41.wav",
+    "lo": 67,
+    "hi": 69,
+    "root": 66,
+    "cents": -5,
+    "loop": null,
+    "attenDb": 17.6,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/11.wav",
+    "lo": 70,
+    "hi": 72,
+    "root": 71,
+    "cents": -1,
+    "loop": [
+     17998,
+     21940
+    ],
+    "attenDb": 5.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/42.wav",
+    "lo": 70,
+    "hi": 72,
+    "root": 70,
+    "cents": 12,
+    "loop": null,
+    "attenDb": 15.600000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/42.wav",
+    "lo": 73,
+    "hi": 90,
+    "root": 70,
+    "cents": 25,
+    "loop": null,
+    "attenDb": 18.400000000000002,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.7001972658109297,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/12.wav",
+    "lo": 73,
+    "hi": 99,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     21552,
+     25826
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/22.wav",
+    "lo": 73,
+    "hi": 99,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     20633,
+     24908
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/32.wav",
+    "lo": 73,
+    "hi": 99,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     19714,
+     23989
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/13.wav",
+    "lo": 100,
+    "hi": 108,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     21552,
+     25826
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/23.wav",
+    "lo": 100,
+    "hi": 108,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     19714,
+     23989
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   },
+   {
+    "file": "cello/33.wav",
+    "lo": 100,
+    "hi": 108,
+    "root": 75,
+    "cents": -1,
+    "loop": [
+     17877,
+     22151
+    ],
+    "attenDb": 3.0,
+    "attack": 0.0500090612326649,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 0.6001243333326338
+   }
+  ],
+  "synthbass": [
+   {
+    "file": "synthbass/0.wav",
+    "lo": 0,
+    "hi": 36,
+    "root": 33,
+    "cents": -3,
+    "loop": [
+     401,
+     802
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/16.wav",
+    "lo": 0,
+    "hi": 36,
+    "root": 33,
+    "cents": 3,
+    "loop": [
+     601,
+     1002
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/1.wav",
+    "lo": 37,
+    "hi": 42,
+    "root": 39,
+    "cents": 60,
+    "loop": [
+     294,
+     588
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/17.wav",
+    "lo": 37,
+    "hi": 42,
+    "root": 39,
+    "cents": 66,
+    "loop": [
+     441,
+     735
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/2.wav",
+    "lo": 43,
+    "hi": 48,
+    "root": 45,
+    "cents": -3,
+    "loop": [
+     200,
+     401
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/18.wav",
+    "lo": 43,
+    "hi": 48,
+    "root": 45,
+    "cents": 3,
+    "loop": [
+     301,
+     502
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/3.wav",
+    "lo": 49,
+    "hi": 54,
+    "root": 51,
+    "cents": 60,
+    "loop": [
+     147,
+     294
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/19.wav",
+    "lo": 49,
+    "hi": 54,
+    "root": 51,
+    "cents": 66,
+    "loop": [
+     220,
+     368
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/4.wav",
+    "lo": 55,
+    "hi": 60,
+    "root": 57,
+    "cents": -3,
+    "loop": [
+     101,
+     201
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/20.wav",
+    "lo": 55,
+    "hi": 60,
+    "root": 57,
+    "cents": 3,
+    "loop": [
+     150,
+     251
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/5.wav",
+    "lo": 61,
+    "hi": 66,
+    "root": 63,
+    "cents": 60,
+    "loop": [
+     74,
+     147
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/21.wav",
+    "lo": 61,
+    "hi": 66,
+    "root": 63,
+    "cents": 66,
+    "loop": [
+     110,
+     184
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/6.wav",
+    "lo": 67,
+    "hi": 72,
+    "root": 69,
+    "cents": -3,
+    "loop": [
+     51,
+     101
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/22.wav",
+    "lo": 67,
+    "hi": 72,
+    "root": 69,
+    "cents": 3,
+    "loop": [
+     76,
+     126
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/7.wav",
+    "lo": 73,
+    "hi": 78,
+    "root": 75,
+    "cents": 60,
+    "loop": [
+     37,
+     74
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/23.wav",
+    "lo": 73,
+    "hi": 78,
+    "root": 75,
+    "cents": 66,
+    "loop": [
+     56,
+     92
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/8.wav",
+    "lo": 79,
+    "hi": 84,
+    "root": 81,
+    "cents": -3,
+    "loop": [
+     26,
+     51
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/24.wav",
+    "lo": 79,
+    "hi": 84,
+    "root": 81,
+    "cents": 3,
+    "loop": [
+     38,
+     63
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/9.wav",
+    "lo": 85,
+    "hi": 90,
+    "root": 87,
+    "cents": 60,
+    "loop": [
+     19,
+     37
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/25.wav",
+    "lo": 85,
+    "hi": 90,
+    "root": 87,
+    "cents": 66,
+    "loop": [
+     28,
+     46
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/10.wav",
+    "lo": 91,
+    "hi": 96,
+    "root": 93,
+    "cents": -3,
+    "loop": [
+     13,
+     26
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/26.wav",
+    "lo": 91,
+    "hi": 96,
+    "root": 93,
+    "cents": 3,
+    "loop": [
+     19,
+     31
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/11.wav",
+    "lo": 97,
+    "hi": 102,
+    "root": 99,
+    "cents": 60,
+    "loop": [
+     9,
+     18
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/27.wav",
+    "lo": 97,
+    "hi": 102,
+    "root": 99,
+    "cents": 66,
+    "loop": [
+     14,
+     23
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/12.wav",
+    "lo": 103,
+    "hi": 108,
+    "root": 105,
+    "cents": -3,
+    "loop": [
+     19,
+     32
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/28.wav",
+    "lo": 103,
+    "hi": 108,
+    "root": 105,
+    "cents": 3,
+    "loop": [
+     22,
+     35
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/13.wav",
+    "lo": 109,
+    "hi": 114,
+    "root": 111,
+    "cents": 60,
+    "loop": [
+     14,
+     23
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/29.wav",
+    "lo": 109,
+    "hi": 114,
+    "root": 111,
+    "cents": 66,
+    "loop": [
+     16,
+     25
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/14.wav",
+    "lo": 115,
+    "hi": 120,
+    "root": 117,
+    "cents": -3,
+    "loop": [
+     22,
+     35
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/30.wav",
+    "lo": 115,
+    "hi": 120,
+    "root": 117,
+    "cents": 3,
+    "loop": [
+     24,
+     36
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/15.wav",
+    "lo": 121,
+    "hi": 127,
+    "root": 123,
+    "cents": 60,
+    "loop": [
+     12,
+     19
+    ],
+    "attenDb": 6.04,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "synthbass/31.wav",
+    "lo": 121,
+    "hi": 127,
+    "root": 123,
+    "cents": 66,
+    "loop": [
+     13,
+     20
+    ],
+    "attenDb": 8.120000000000001,
+    "attack": 0.10001812246532978,
+    "hold": 0.10001812246532978,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   }
+  ],
+  "taiko": [
+   {
+    "file": "taiko/0.wav",
+    "lo": 0,
+    "hi": 60,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 5.0106577544965125,
+    "sustainDb": -100.0,
+    "release": 7.348755741778409
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 61,
+    "hi": 71,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 4.141059695365509,
+    "sustainDb": -100.0,
+    "release": 5.0106577544965125
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 72,
+    "hi": 77,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 3.0702014772246726,
+    "sustainDb": -100.0,
+    "release": 3.8105519921757494
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 78,
+    "hi": 82,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 2.439637279520408,
+    "sustainDb": -100.0,
+    "release": 2.8795299614679597
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 83,
+    "hi": 86,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.0009771267475649945,
+    "decay": 2.110375907963969,
+    "sustainDb": -100.0,
+    "release": 2.439637279520408
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 87,
+    "hi": 91,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 1.939699724840201,
+    "sustainDb": -100.0,
+    "release": 2.2101842853529083
+   },
+   {
+    "file": "taiko/0.wav",
+    "lo": 92,
+    "hi": 108,
+    "root": 60,
+    "cents": -23,
+    "loop": [
+     9471,
+     11845
+    ],
+    "attenDb": 3.4000000000000004,
+    "attack": 0.0009765625,
+    "hold": 0.1379770284138808,
+    "decay": 1.7300735036962818,
+    "sustainDb": -100.0,
+    "release": 1.8596098852263236
+   }
+  ],
+  "kit": [
+   {
+    "file": "kit/7.wav",
+    "lo": 35,
+    "hi": 35,
+    "root": 35,
+    "cents": 0,
+    "loop": null,
+    "attenDb": 2.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 1.0,
+    "sustainDb": 0.0,
+    "release": 1.0
+   },
+   {
+    "file": "kit/0.wav",
+    "lo": 36,
+    "hi": 36,
+    "root": 36,
+    "cents": 0,
+    "loop": null,
+    "attenDb": 2.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 9.998188081831264,
+    "sustainDb": -100.0,
+    "release": 9.998188081831264
+   },
+   {
+    "file": "kit/6.wav",
+    "lo": 39,
+    "hi": 39,
+    "root": 54,
+    "cents": -50,
+    "loop": null,
+    "attenDb": 4.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 4.999094040915632,
+    "sustainDb": -96.0,
+    "release": 4.999094040915632
+   },
+   {
+    "file": "kit/8.wav",
+    "lo": 41,
+    "hi": 41,
+    "root": 42,
+    "cents": 0,
+    "loop": [
+     50562,
+     51243
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 39.99275232732504,
+    "sustainDb": -96.0,
+    "release": 39.99275232732504
+   },
+   {
+    "file": "kit/1.wav",
+    "lo": 42,
+    "hi": 42,
+    "root": 42,
+    "cents": 0,
+    "loop": null,
+    "attenDb": 13.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 1.0,
+    "sustainDb": -100.0,
+    "release": 1.0
+   },
+   {
+    "file": "kit/2.wav",
+    "lo": 42,
+    "hi": 42,
+    "root": 42,
+    "cents": 0,
+    "loop": null,
+    "attenDb": 9.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 3.0000779785716363,
+    "sustainDb": -100.0,
+    "release": 3.0000779785716363
+   },
+   {
+    "file": "kit/8.wav",
+    "lo": 43,
+    "hi": 43,
+    "root": 42,
+    "cents": 0,
+    "loop": [
+     50562,
+     51243
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 34.99717743846068,
+    "sustainDb": -96.0,
+    "release": 34.99717743846068
+   },
+   {
+    "file": "kit/3.wav",
+    "lo": 44,
+    "hi": 44,
+    "root": 53,
+    "cents": 1054,
+    "loop": null,
+    "attenDb": 9.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 2.0,
+    "sustainDb": -96.0,
+    "release": 2.0
+   },
+   {
+    "file": "kit/4.wav",
+    "lo": 44,
+    "hi": 44,
+    "root": 60,
+    "cents": 0,
+    "loop": null,
+    "attenDb": 9.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 0.0009765625,
+    "sustainDb": -96.0,
+    "release": 0.0009765625
+   },
+   {
+    "file": "kit/9.wav",
+    "lo": 45,
+    "hi": 45,
+    "root": 45,
+    "cents": 0,
+    "loop": [
+     54270,
+     54827
+    ],
+    "attenDb": 7.0,
+    "attack": 0.0009765625,
+    "hold": 0.0009765625,
+    "decay": 29.995343889919354,
+    "sustainDb": -96.0,
+    "release": 29.995343889919354
+   },
+   {
+    "file": "kit/5.wav",
+    "lo": 56,
+    "hi": 56,
+    "root": 61,
+    "cents": -201,
+    "loop": null,
+    "attenDb": 4.800000000000001,
+    "attack": 0.0009765625,
+    "hold": 0.5,
+    "decay": 0.0009765625,
+    "sustainDb": 0.0,
+    "release": 3.850377772407006
+   }
+  ]
+ }
+}
